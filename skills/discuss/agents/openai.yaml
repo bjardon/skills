@@ -1,0 +1,6 @@
+interface:
+  display_name: "Discuss"
+  short_description: "Have a fluid, exploratory conversation"
+  default_prompt: "Use $discuss to talk this through with me without rushing toward an answer."
+policy:
+  allow_implicit_invocation: true
